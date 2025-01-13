@@ -17,16 +17,12 @@ The Danny's Diner SQL Case Study focuses on various aspects of the diner’s ope
 - **Sales Trends:** January was noted as the peak sales month, reflecting seasonal shopping behaviors.
 
 ## 🛠️ Tools & Technologies
-- **Database:** mysql
 - **Language:** SQL
 
-**Dataset Link:** [Danny's Diner Dataset](https://github.com/ShahRizwan007/SQl_project_ShahRizwan007-SQL_PROJECT_Danny_Diner/blob/main/Dannys_Diner.csv)  
-
-**Linkedin Post** :[https://www.linkedin.com/feed/update/urn:li:activity:7244926263591682048/](https://www.linkedin.com/feed/update/urn:li:activity:7236005715486621696/)
 
 Please feel free to give any suggestion or feedback, If you like this post give it a like and share it. Follow me on github and linkedin for more useful data analyst project
 
 
-**Linkedin profile**:https://lnkd.in/dJguGPtK
+**Linkedin profile**:[https://lnkd.in/dJguGPtK](https://www.linkedin.com/in/ubaid-zia-19098656/)
 
 
